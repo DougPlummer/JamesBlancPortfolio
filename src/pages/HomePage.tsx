@@ -46,7 +46,7 @@ export function HomePage() {
           <SectionBanner
             eyebrow="Meet James Blanc"
             title="Artist, Producer, Engineer"
-            description="James Blanc is a South Florida saxophonist, audio engineer, and producer whose work bridges jazz, rock, funk, and modern production. A fourth-generation sax player, he's shaped his sound through years of ensemble work, session playing, and multigenre performance. Under the mentorship of DMA Dr. Kyle Mechmet in classical saxophone, DMA Dr. Courtney Jones in jazz studies, and Markus Hernandez in contemporary styles, James continues to refine his technique, artistry, and musical identity while studying Commercial Music Technology at Florida Atlantic University. His experience across wind ensembles, jazz orchestras, and contemporary bands has made him a versatile musician with a deep understanding of both traditional and modern expression."
+            description="James Blanc is a South Florida saxophonist, audio engineer, and producer whose work bridges jazz, rock, funk, and modern production. A fourth-generation sax player, he's shaped his sound through years of ensemble work, session playing, and multigenre performance. Under the mentorship of DMA Dr. Kyle Mechmet in classical saxophone, DMA Dr. Courtney Jones in jazz studies, and Markis Hernandez in contemporary styles, James continues to refine his technique, artistry, and musical identity while studying Commercial Music Technology at Florida Atlantic University. His experience across wind ensembles, jazz orchestras, and contemporary bands has made him a versatile musician with a deep understanding of both traditional and modern expression."
           />
           <div>
             <Link
