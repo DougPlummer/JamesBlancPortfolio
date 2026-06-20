@@ -31,7 +31,7 @@ export function AboutPage() {
             through years of ensemble work, session playing, and multigenre
             performance. Under the mentorship of DMA Dr. Kyle Mechmet in
             classical saxophone, DMA Dr. Courtney Jones in jazz studies, and
-            Markus Hernandez in contemporary styles, James continues to refine
+            Markis Hernandez in contemporary styles, James continues to refine
             his technique, artistry, and musical identity while studying
             Commercial Music Technology at Florida Atlantic University. His
             experience across wind ensembles, jazz orchestras, and contemporary
