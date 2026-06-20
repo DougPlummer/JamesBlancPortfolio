@@ -58,7 +58,7 @@ export function AboutPage() {
             His engineering experience extends into the professional field
             through his role as an assistant engineer at Markee Music, working
             under the mentorship of audio technologist, Marko Ruffolo, where
-            he contributes to session setup, tracking, and mix preparation. He
+            he contributes to session setup, tracking, and mix preparation. James
             also serves as an audio engineer at Influence Studios, supporting
             artists across a range of modern genres. In live settings, James
             brings the same precision and adaptability as a live sound
