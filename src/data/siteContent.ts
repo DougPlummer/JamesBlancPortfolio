@@ -35,9 +35,9 @@ export const serviceCards = [
       "South Florida saxophonist whose work spans jazz, rock, funk, and classical performance with equal versatility and artistry.",
   },
   {
-    title: "Mixing & Mastering",
+    title: "Mixing & Post",
     description:
-      "Dedicated mix and master engineer known for his meticulous attention to detail and unwavering commitment to delivering polished, emotionally impactful sound.",
+      "Dedicated mixing engineer known for his meticulous attention to detail and unwavering commitment to delivering polished, emotionally impactful sound.",
   },
   {
     title: "Production & Beats",
