@@ -51,7 +51,7 @@ export function AboutPage() {
           </p>
           <p className="text-lg leading-8 text-ink/78">
             Beyond performance, James is deeply invested in engineering and
-            production, specializing in mixing, mastering, MIDI, and
+            production, specializing in mixing, MIDI, and
             instrumental tracking. As Head of Production at FAU and an active
             member of Hoot Wisdom, he has built a reputation for elevating
             artists' ideas with clarity, intention, and modern sonic detail.
